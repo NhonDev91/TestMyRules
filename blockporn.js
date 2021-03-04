@@ -20,6 +20,7 @@ var pornUrl = [
   "anyxxx.me",
   "tiava.com",
   "tube3.com",
+    "abc.com"
 ]
 
 function FindProxyForURL(url, host) {
