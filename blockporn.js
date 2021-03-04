@@ -3,7 +3,7 @@ var BLACK = "PROXY 127.0.0.1:8021";
 
 function d(h, r) {
     return dnsDomainIs(h, r);
-}
+} 
 
 var pornUrl = [
   "fap18.net",
