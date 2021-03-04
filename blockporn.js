@@ -8,7 +8,6 @@ function d(h, r) {
 var pornUrl = [
   "fap18.net",
   "ixxx.com",
-  "thumbzilla.com",
   "tnaflix.com",
   "redtube.com",
   "xfantazy.com",
